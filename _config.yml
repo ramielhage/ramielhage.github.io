@@ -1,8 +1,8 @@
 title: Rami
-description: A minimal and beautiful Jekyll theme best for writing and note-taking.
-author: Shangzhi Huang
+description: A short CV on myself.
+author: Rami El Hage
 avatar: /logo.png
-email: ngzhio@gmail.com
+email: rami.el-hage.etu@univ-lille.fr
 
 plugins:
   - jekyll-seo-tag
